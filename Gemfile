@@ -18,6 +18,7 @@ gem 'bootstrap-sass'
 gem 'devise'
 gem 'simple_form'
 gem 'figaro'
+gem "paperclip", "~> 4.2"
 
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
