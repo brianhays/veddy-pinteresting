@@ -22,6 +22,9 @@ gem "paperclip", "~> 4.2"
 gem 'aws-sdk', '~> 1.54.0'
 gem 'masonry-rails'
 gem 'jquery-turbolinks'
+gem 'will_paginate', '~> 3.0'
+gem 'will_paginate-bootstrap'
+
 
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
